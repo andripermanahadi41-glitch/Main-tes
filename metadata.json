@@ -1,0 +1,6 @@
+{
+  "name": "GP180 Tone",
+  "description": "Valeton GP-180 guitar and bass multi-effects pedal tone builder, parameter editor, and AI song preset generator with .prst file support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
